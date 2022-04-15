@@ -12,3 +12,8 @@
 ✅ The machine learning model could reduce the computational time from 216 hours to less than 1 second by replacing the frequency stability analysis with a classifier to detect "Normal" or "At risk" operating hours.  
 
 ✅The machine learning framework to deal with the imbalanced dataset from power system dynamic security has been implemented with collaboration of "UCD School of Mathematics and Statistics"
+
+✅ Other contributors in this work: 
+Dr. Áine Byrne, School of Mathematics and Statistics, University College Dublin, Dublin, Belfield, Dublin 4, Ireland
+Dr. Ciara O'Dwyer, School of Electrical & Electronic Engineering, University College Dublin, Dublin, Belfield, Dublin 4, Ireland
+Dr. Damian Flynn, School of Electrical & Electronic Engineering, University College Dublin, Dublin, Belfield, Dublin 4, Ireland
