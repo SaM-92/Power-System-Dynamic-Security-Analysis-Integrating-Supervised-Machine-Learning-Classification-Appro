@@ -14,6 +14,9 @@
 ✅The machine learning framework to deal with the imbalanced dataset from power system dynamic security has been implemented with collaboration of "UCD School of Mathematics and Statistics"
 
 ✅ Other contributors in this work: 
+
 Dr. Áine Byrne, School of Mathematics and Statistics, University College Dublin, Dublin, Belfield, Dublin 4, Ireland
+
 Dr. Ciara O'Dwyer, School of Electrical & Electronic Engineering, University College Dublin, Dublin, Belfield, Dublin 4, Ireland
+
 Dr. Damian Flynn, School of Electrical & Electronic Engineering, University College Dublin, Dublin, Belfield, Dublin 4, Ireland
